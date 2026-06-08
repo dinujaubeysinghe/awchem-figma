@@ -29,5 +29,5 @@ The platform also includes a powerful admin management system that allows admini
 | ----- | -------------------------- |
 | Figma | UI/UX Design & Prototyping |
 
-[## 🔗 View Full Figma Design(Prototype Link)](https://www.figma.com/proto/IC9KiJJ1dfbOWiso7ow4WU/AWCHEM?node-id=64-157&p=f&viewport=-762%2C328%2C0.16&t=YSqPmnIqwRbc2k8D-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=4%3A10&page-id=0%3A1)
+##[🔗 View Full Figma Design(Prototype Link)](https://www.figma.com/proto/IC9KiJJ1dfbOWiso7ow4WU/AWCHEM?node-id=0-1&t=F6A5nuZhi9WHHM4X-1)
 
